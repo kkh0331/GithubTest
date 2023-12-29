@@ -1,0 +1,1 @@
+pull한 상태에서 test2.txt 추가
