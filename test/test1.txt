@@ -1,1 +1,3 @@
 Github에서 새로운 폴더 생성을 위한 테스트 - 빈 폴더는 폴더로써 인식되지 않으므로 test1.txt 파일 임시로 생성함
+
+branch 학습을 위해서 apple branch에서 원래 있던 test1.txt에 글을 추가함
