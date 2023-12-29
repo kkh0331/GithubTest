@@ -1,0 +1,1 @@
+새로운 branch을 생성한 후 원래 main branch에서 이 파일을 삭제 후 merge한다면 어떻게 되는지 궁금
